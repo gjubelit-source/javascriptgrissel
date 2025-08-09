@@ -1,4 +1,4 @@
-console.log("tercer ejercicio")
+console.log("tercer ejercicio") 
 console.log("Estudiante de grado 4");
 let nombre="miguel Angel";
 let edad=10;

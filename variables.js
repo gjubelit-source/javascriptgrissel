@@ -1,6 +1,6 @@
 //string
 var sena= "ADSO";
-console.log(sena);
+console.log(sena); 
 //numero
 let numeroEntero= 17;
 var numeroNegativo= -4;

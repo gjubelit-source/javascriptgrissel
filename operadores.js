@@ -1,5 +1,5 @@
 //suma,resta,multiplicacion,division
-//calcular valores de dos o mas elementos
+//calcular valores de dos o mas elementos 
 let num1=4;
 var num2=8;
 let suma=num1+num2;

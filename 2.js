@@ -7,4 +7,4 @@ let hijos=0 ;
 console.log("Hola soy " +nombre +" \ntengo "+ edad +" Años "+"\nquiero un sueldo de: "+sueldo +" \ne hijos "+hijos);
 let femenino=true;
 let masculino=false
-console.log("Mi género es "+" femenino  " + femenino);
+console.log("Mi género es "+" femenino  " + femenino); 
